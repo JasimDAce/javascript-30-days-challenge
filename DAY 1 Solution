@@ -1,0 +1,38 @@
+
+//TODO: 1:
+var num1 = 38;
+console.log(num1);  
+
+//TODO: 2:
+var num2 = 28;
+console.log(num2);  
+
+//TODO: 3:
+const isTrue = true;
+console.log(isTrue);
+
+//TODO 4:
+const number = 1;
+console.log(typeof(number));
+
+const string = 'I am a String';
+console.log(typeof(string));
+
+const obj = {
+    name: 'Mohd Ali Jasim'
+}
+console.log(typeof(obj));
+const arr = [1,2,3,5];
+console.log(typeof(arr));
+
+
+//TODO: 5:
+let value = 10;
+console.log(value);
+value = 20;
+console.log(value);
+
+
+const constValue = 15;
+console.log(constValue);
+constValue = 5;
